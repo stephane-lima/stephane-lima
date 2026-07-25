@@ -2,18 +2,19 @@
 
 Welcome to my GitHub profile!
 
-I am a Software Development student at Brigham Young University–Idaho, currently completing an Associate of Applied Science in Applied Technology. My interest in technology started in high school through Information Technology and Robotics Lab classes, where I became interested in how software and hardware can work together to solve problems.
+I am a Software Development student at BYU-Pathway Worldwide, currently completing an Associate of Applied Science in Applied Technology. My interest in technology started in high school through Information Technology and Robotics Lab classes, where I became interested in how software and hardware can work together to solve problems.
 
 I enjoy learning new technologies, building applications, and understanding how different parts of a system work together. Through my coursework, personal projects, and my experience as a Web Development Intern at NOSi, I have been developing my skills in software development, web technologies, databases, and programming.
 
 ## About Me
 
-- 🎓 Software Development student at Brigham Young University–Idaho
+- 🎓 Software Development student at BYU-Pathway Worldwide
 - 💻 Interested in software development, web development, databases, and emerging technologies
 - 🌱 Currently improving my skills in full-stack development, cloud technologies, and software engineering practices
 - 🚀 Working toward becoming a software developer who creates useful and reliable applications
 - 🔍 Enjoy building projects that help me apply programming concepts to real-world problems
 - 🤝 Interested in collaborating with other developers and learning from the technology community
+
 
 ## Skills & Technologies
 
@@ -54,16 +55,58 @@ I enjoy learning new technologies, building applications, and understanding how 
 - Problem-Solving
 - Teamwork and Communication
 
+
 ## Projects
 
-### 🌐 Web Development Projects
-I have developed web applications using HTML, CSS, JavaScript, and backend technologies. These projects helped me improve my understanding of user interfaces, application logic, and how different technologies work together.
+### Video Game Sales Data Analysis
 
-### 🗄️ Database Projects
-I have created database applications involving data modeling, SQL queries, and data management. These projects strengthened my understanding of how applications store and retrieve information.
+A data analysis project that explores video game sales trends using real-world datasets. The project demonstrates data cleaning, exploratory data analysis, and data visualization techniques to identify patterns and insights within the gaming industry.
 
-### 💬 Networking Projects
-I have developed programming projects involving client-server communication and networking concepts, helping me understand how applications exchange information.
+**Technologies Used:**
+- Python
+- Pandas
+- Matplotlib
+- Streamlit
+- Data Analysis
+
+**Repository:** [https://www.github.com/stephane-lima/video-game-sales-data-analysis](https://www.github.com/stephane-lima/video-game-sales-data-analysis)
+
+---
+
+### Recipe App
+
+A recipe management application that allows users to browse, organize, and manage recipes. This project showcases application design principles, user interface development, and programming fundamentals.
+
+**Technologies Used:**
+- HTML
+- CSS
+- JavaScript
+- Web Development
+
+**Repository:** [https://www.github.com/stephane-lima/Recipe-App](https://www.github.com/stephane-lima/Recipe-App)
+
+---
+
+### Handcrafted Haven Test
+
+A web development project focused on designing and implementing features for an e-commerce-style application. It demonstrates front-end development skills and the ability to build user-friendly interfaces.
+
+**Technologies Used:**
+- HTML
+- CSS
+- JavaScript
+- Web Development
+
+**Repository:** [https://github.com/stephane-lima/handcrafted-haven-test](https://www.github.com/stephane-lima/handcrafted-haven-test)
+
+
+## Where to Find My Projects
+
+- [Github Profile:](https://www.github.com/stephane-lima)
+- [Repositories:](https://www.github.com/stephane-lima?tab=repositories)
+
+The repositories listed above are featured examples of my work in data analysis and web development
+
 
 ## Experience
 
@@ -72,17 +115,6 @@ I have developed programming projects involving client-server communication and 
 
 During my internship, I gained experience working with web applications, testing software functionality, collaborating with developers, and applying programming concepts in a professional environment.
 
-## GitHub Statistics
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=stephane-lima&show_icons=true&hide_border=true">
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephane-lima&layout=compact&hide_border=true">
-</div>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stephane-lima&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stephane-lima&layout=compact&hide_border=true)
 
 ## Let's Connect
 
