@@ -80,9 +80,9 @@ During my internship, I gained experience working with web applications, testing
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephane-lima&layout=compact&hide_border=true">
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stephane-lima&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=stephane-lima&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stephane-lima&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=stephane-lima&layout=compact)
 
 ## Let's Connect
 
