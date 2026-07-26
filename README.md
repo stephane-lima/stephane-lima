@@ -102,8 +102,8 @@ A web development project focused on designing and implementing features for an 
 
 ## Where to Find My Projects
 
-- [Github Profile:](https://www.github.com/stephane-lima)
-- [Repositories:](https://www.github.com/stephane-lima?tab=repositories)
+- Github Profile: [https://www.github.com/stephane-lima](https://www.github.com/stephane-lima)
+- Repositories: [https://www.github.com/stephane-lima?tab=repositories](https://www.github.com/stephane-lima?tab=repositories)
 
 The repositories listed above are featured examples of my work in data analysis and web development
 
